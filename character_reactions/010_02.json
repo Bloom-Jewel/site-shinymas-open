@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日は何をするんでしょう？\nチョコ関連？\nそれとも別のことだったり？",
+      "id": "265",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_4"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサーさん、\nあなたのチョコアイドルは\n今日も元気いっぱいですよ！",
+      "id": "266",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_5"
+    },
+    {
+      "animation1": "smile3",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "move",
+      "comment": "お疲れ様です！\nチョコっと休憩しませんか？\n……チョコだけにっ",
+      "id": "267",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさん、\n疲れた時には甘いものが\nいいんですよ！",
+      "id": "273",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_12"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "wait",
+      "comment": "今度、お菓子作ってこようと\n思ってるんです！\n食べてくださいねっ",
+      "id": "274",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_13"
+    },
+    {
+      "animation1": "smile3",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさんが\n構ってくれるまで待ってます\n……なんちゃって！",
+      "id": "275",
+      "lip": "lip_shy2",
+      "tension": 0,
+      "voice": "010_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "surp2",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch",
+      "comment": "もう、プロデューサーさん？\nそこにお菓子は隠して\nないですよ？",
+      "id": "279",
+      "lip": "lip_wait",
+      "tension": 5,
+      "voice": "010_reaction_18"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "touch",
+      "comment": "待って待って！\n私くすぐり弱いんですー！\nふふっ、ダメですってばぁ",
+      "id": "280",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "010_reaction_19"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "touch",
+      "comment": "も、もしかして\n太っちゃいました……！？\nやわらかすぎですかね……？",
+      "id": "281",
+      "lip": "lip_anger",
+      "tension": 5,
+      "voice": "010_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "チョコっとでもダメですっ\n……恥ずかしいですもん",
+      "id": "285",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "010_reaction_24"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……や、やっぱり、\nプロデューサーさんも\n気になるんですか……？",
+      "id": "286",
+      "lip": "lip_shy2",
+      "tension": 0,
+      "voice": "010_reaction_25"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "えっと、えっと……！\nこっ、こういう時の反応って\n何が正解なんですか……！？",
+      "id": "287",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "010_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日は何かがありそうな予感……！",
+      "id": "288",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "010_reaction_27"
+    }
+  ]
+}

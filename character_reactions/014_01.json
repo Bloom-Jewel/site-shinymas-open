@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "smile1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "やっほー\n今日もよろしくね☆\nプロデューサーさん！",
+      "id": "378",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "014_reaction_1"
+    },
+    {
+      "animation1": "wait2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日はレッスン？\nそれともお仕事かな？",
+      "id": "379",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "014_reaction_2"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日の調子もまーまーってところかな\n頑張っていこうね",
+      "id": "380",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "014_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "お、このファッション雑誌いい感じかも！\n後で読ませてもらうね",
+      "id": "386",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "014_reaction_9"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "まだ少し時間あるから、ネイルしてるね～",
+      "id": "387",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "014_reaction_10"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "wait",
+      "comment": "甜花ちゃんどうしてるかな～\nプロデューサーさん知ってる？",
+      "id": "388",
+      "lip": "lip_surp2",
+      "tension": 0,
+      "voice": "014_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "surp2",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "touch",
+      "comment": "甜花ちゃん？\nあ、プロデューサーさんか",
+      "id": "392",
+      "lip": "lip_surp",
+      "tension": -5,
+      "voice": "014_reaction_15"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさん？\n何かあったのかな？",
+      "id": "393",
+      "lip": "lip_surp",
+      "tension": -5,
+      "voice": "014_reaction_16"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "急に触られたら驚いちゃうから\n声かけてほしいなっ",
+      "id": "394",
+      "lip": "lip_shy",
+      "tension": -5,
+      "voice": "014_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "まさか、甜花ちゃんにも\nおんなじことしてないよね……？",
+      "id": "398",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "014_reaction_21"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "プロデューサーさん……\nこういうことするんだ……",
+      "id": "399",
+      "lip": "lip_sad2",
+      "tension": -10,
+      "voice": "014_reaction_22"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "やっていいこととダメなことがあると思うな",
+      "id": "400",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "014_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日はなんか\n成長できる気がするんだー☆",
+      "id": "404",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_27"
+    }
+  ]
+}

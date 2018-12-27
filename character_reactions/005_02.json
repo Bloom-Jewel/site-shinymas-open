@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "face_wait2",
+      "animation3": "",
+      "category": "move",
+      "comment": "事務所にくるの\n嫌いじゃないですよー",
+      "id": "120",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_4"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "move",
+      "comment": "おはよーございまぁす\n……挨拶くらい、\n私もしますよー",
+      "id": "121",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "005_reaction_5"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日の私、\n珍しくやる気があるかも\nしれませんよー？",
+      "id": "122",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "仕事ばっかりしてないでー\nプロデューサーも一緒に\nサボっちゃいませんかぁ",
+      "id": "128",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_12"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "どうしたんですかぁ\nイタズラでもされましたー？\nふふー、私じゃないですよー",
+      "id": "129",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_13"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサー\n私が特別にー\n料理作ってあげましょうかぁ",
+      "id": "130",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "smile1",
+      "animation2": "face_wait3",
+      "animation3": "",
+      "category": "touch",
+      "comment": "私に触ったってことはぁ\n仕返ししてもイイって事ですよねー",
+      "id": "134",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "005_reaction_18"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "touch",
+      "comment": "私の服が気になるんですかぁ？\nプロデューサーも、着てみますー？",
+      "id": "135",
+      "lip": "lip_wait",
+      "tension": 5,
+      "voice": "005_reaction_19"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_wait2",
+      "animation3": "",
+      "category": "touch",
+      "comment": "他の女の子にはぁ\n気軽に触っちゃダメですよー",
+      "id": "136",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "005_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "sad1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "きゃっ──\n……今の声は聞かなかった\nことに、してくださいー",
+      "id": "140",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_24"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "イタズラの仕返しですかぁ\nまったく、プロデューサーは\n悪い大人ですねー",
+      "id": "141",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "005_reaction_25"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "ここで悲鳴を上げたらぁ\nどうなりますかねー\n……ふふー",
+      "id": "142",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "sad2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "んー、何かが掴めそうな予感がするかもー",
+      "id": "143",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_27"
+    }
+  ]
+}

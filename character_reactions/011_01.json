@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "なんでもいいけど\n今日もよろしく",
+      "id": "291",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "011_reaction_1"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "move",
+      "comment": "それで、\n今日は何をすればいいんだよ",
+      "id": "292",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "011_reaction_2"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "move",
+      "comment": "やることがあるなら\n早く言えよな",
+      "id": "293",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "011_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "wait",
+      "comment": "しっかりしろよ\nなにボ－っとしてんだ？",
+      "id": "299",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "011_reaction_9"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "wait",
+      "comment": "なんだ？\nバスケの試合、\nテレビでやってんのか……",
+      "id": "300",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "011_reaction_10"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "wait",
+      "comment": "ふわぁ……\nなんか眠くなってきた……",
+      "id": "301",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "011_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ちょっ、いきなりなんだよ！",
+      "id": "305",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "011_reaction_15"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "わっ！\nテメ－気安く触んな！",
+      "id": "306",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "011_reaction_16"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……おい、怒るぞ？",
+      "id": "307",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "011_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "anger3",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "おいっ、ふざけんな！\n何考えてんだアンタは！",
+      "id": "311",
+      "lip": "lip_surp",
+      "tension": -10,
+      "voice": "011_reaction_21"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "わっ、ちょっ、おいっ！\nどこ触ってんだよっ！",
+      "id": "312",
+      "lip": "lip_wait",
+      "tension": -10,
+      "voice": "011_reaction_22"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "サイテ－な野郎だな！\n次やったら\nマジで許さね－ぞ！",
+      "id": "313",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "011_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "sad1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日はなんか掴めそうな気がすんだよな……",
+      "id": "317",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "011_reaction_27"
+    }
+  ]
+}

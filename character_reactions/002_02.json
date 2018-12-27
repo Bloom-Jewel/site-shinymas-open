@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサー\n今日も１日、よろしくお願いしますね",
+      "id": "33",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "002_reaction_4"
+    },
+    {
+      "animation1": "wait2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサー、いつもお疲れ様です",
+      "id": "34",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "002_reaction_5"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "こんにちは、プロデューサー\n最近レッスンの調子がいいみたいです",
+      "id": "35",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "002_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "shy2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "実は今日、筋肉痛で……\n……他の子には、\n言わないでください",
+      "id": "41",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_12"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "今日の占いによると……\nプロデューサーの運勢は\n結構いいみたいです",
+      "id": "42",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "002_reaction_13"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "wait",
+      "comment": "事務所、自分の家よりも\n居心地がいいんですよね",
+      "id": "43",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "002_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……なんだか、\n緊張がとけました",
+      "id": "47",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "002_reaction_18"
+    },
+    {
+      "animation1": "smile3",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ふふ……\n結構鍛えてるんですよ、ほら",
+      "id": "48",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "002_reaction_19"
+    },
+    {
+      "animation1": "shy3",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch",
+      "comment": "もう……\n触らないでくださいって……",
+      "id": "49",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "002_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "shy3",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "あまり、自信がないんです……\nどう、ですか……？",
+      "id": "53",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "002_reaction_24"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "あの……\n恥ずかしいです……",
+      "id": "54",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "002_reaction_25"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "プロデューサー……これ以上は……\nお、怒りますよ？",
+      "id": "55",
+      "lip": "",
+      "tension": 0,
+      "voice": "002_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "うーん、あとちょっとで何かが掴めそうなんですが",
+      "id": "56",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_27"
+    }
+  ]
+}

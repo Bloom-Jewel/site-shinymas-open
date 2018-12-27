@@ -1,0 +1,157 @@
+
+{
+  "isTouched": false,
+  "moveReactions": [
+    {
+      "animation1": "surp2",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "move",
+      "comment": "あっ！\nプロデューサーさん！\nねぇねぇ、今日の甘奈どう？",
+      "id": "381",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_4"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "えへへ、準備ならいつでもオッケーだよ☆\n何でも来いってカンジかなっ",
+      "id": "382",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_5"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "甘奈、絶好調ー！\nこれもプロデューサーさんのおかげかな",
+      "id": "383",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "014_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさん！　甘奈、いい服見つけたんだ！\n今度見てほしいな！",
+      "id": "389",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "014_reaction_12"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "wait",
+      "comment": "えへへ、今日のネイル、イイ感じじゃない？\nねえねえ、どうかな？",
+      "id": "390",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_13"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "wait",
+      "comment": "最近ね、甜花ちゃん楽しそうなんだよ！",
+      "id": "391",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "touch",
+      "comment": "甘奈にはいいけど、甜花ちゃんはビックリしちゃうから\n気を付けてあげてね～",
+      "id": "395",
+      "lip": "lip_smile2",
+      "tension": 5,
+      "voice": "014_reaction_18"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさん！　何々どうしたの～？\n甘奈、気になっちゃうよ～",
+      "id": "396",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "014_reaction_19"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "touch",
+      "comment": "気楽に声かけてくれていいよ\nプロデューサーさんと甘奈の仲だもん☆",
+      "id": "397",
+      "lip": "lip_smile2",
+      "tension": 5,
+      "voice": "014_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "めっ！　こーゆーこと\n甜花ちゃんにはしたらダメだからね！",
+      "id": "401",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "014_reaction_24"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "プロデューサーさん\n甘奈、こういうことは……あんまり……",
+      "id": "402",
+      "lip": "lip_shy2",
+      "tension": 0,
+      "voice": "014_reaction_25"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "もう、ほどほどにしないとダメだぞっ！",
+      "id": "403",
+      "lip": "lip_surp2",
+      "tension": 0,
+      "voice": "014_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日はなんか\n成長できる気がするんだー☆",
+      "id": "404",
+      "lip": "lip_smile2",
+      "tension": 0,
+      "voice": "014_reaction_27"
+    }
+  ]
+}

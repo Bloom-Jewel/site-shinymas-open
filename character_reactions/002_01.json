@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait3",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "お疲れ様です\n今日もよろしくお願いします",
+      "id": "30",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "002_reaction_1"
+    },
+    {
+      "animation1": "wait4",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサー、今日の予定はどうなっていますか？",
+      "id": "31",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "002_reaction_2"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "こんにちは、プロデューサー",
+      "id": "32",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "anger2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサー？\n私の話、聞いてますか？",
+      "id": "38",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_9"
+    },
+    {
+      "animation1": "wait2",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "wait",
+      "comment": "努力しても努力しても、\nし足りないんです",
+      "id": "39",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_10"
+    },
+    {
+      "animation1": "sad3",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "あとどのくらい頑張ったら、\n理想の自分に\nなれるんでしょうか……",
+      "id": "40",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "anger2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……何か用なんですか？",
+      "id": "44",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "002_reaction_15"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……触らないでください",
+      "id": "45",
+      "lip": "lip_shy",
+      "tension": -5,
+      "voice": "002_reaction_16"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……私に触る必要性、ありますか？",
+      "id": "46",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "002_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "wait4",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "やめてください！",
+      "id": "50",
+      "lip": "lip_shy",
+      "tension": -10,
+      "voice": "002_reaction_21"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "今のって……\nわざと、ですよね？",
+      "id": "51",
+      "lip": "lip_shy",
+      "tension": -10,
+      "voice": "002_reaction_22"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "ちょっ……\nいい加減にしてください",
+      "id": "52",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "002_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "うーん、あとちょっとで何かが掴めそうなんですが",
+      "id": "56",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "002_reaction_27"
+    }
+  ]
+}

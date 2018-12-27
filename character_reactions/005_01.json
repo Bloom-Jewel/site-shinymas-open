@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "sad2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサー\n私のことをやる気に\nしてくださぁい",
+      "id": "117",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "005_reaction_1"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_wait2",
+      "animation3": "",
+      "category": "move",
+      "comment": "私、何でもフツーにできるんでー\nサボってもいいですかぁ？",
+      "id": "118",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_2"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日は忙しいんですー\nもう帰っていいですかぁ？",
+      "id": "119",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "surp1",
+      "animation2": "face_wait3",
+      "animation3": "",
+      "category": "wait",
+      "comment": "今のうちに次にするイタズラ\n考えておきますねー",
+      "id": "125",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_9"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "wait",
+      "comment": "ふわぁ……\nやることないと、眠いですねー",
+      "id": "126",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_10"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_wait3",
+      "animation3": "",
+      "category": "wait",
+      "comment": "私が急に事務所に\nこなくなったらぁ\nどうしますー？",
+      "id": "127",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "005_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "anger2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "何するんですかぁ\nやめてほしいんですケドー",
+      "id": "131",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "005_reaction_15"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "女の子にー軽々しく触っちゃ\nダメだと思いまーす",
+      "id": "132",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "005_reaction_16"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "触らないでくださいー\n私、もう来ませんよー？",
+      "id": "133",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "005_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "気分を害しましたぁ",
+      "id": "137",
+      "lip": "lip_sad",
+      "tension": -10,
+      "voice": "005_reaction_21"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "最っ低ですねー",
+      "id": "138",
+      "lip": "lip_wait",
+      "tension": -10,
+      "voice": "005_reaction_22"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "幻滅ですー\n変態さんだったんですねー",
+      "id": "139",
+      "lip": "lip_wait",
+      "tension": -10,
+      "voice": "005_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "sad2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "んー、何かが掴めそうな予感がするかもー",
+      "id": "143",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "005_reaction_27"
+    }
+  ]
+}

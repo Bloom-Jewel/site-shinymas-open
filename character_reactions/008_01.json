@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "お花に……水をあげないと……",
+      "id": "204",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_1"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "ご、ご気分は……どうでしょう……？",
+      "id": "205",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_2"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "move",
+      "comment": "ケ……ケガをしてるわけでは……\nないんです……",
+      "id": "206",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "008_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プ、プロデューサーさん\nわたしは……ここにいます……",
+      "id": "212",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_9"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "す……すみません……\nどうされてるか不安になって……",
+      "id": "213",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "008_reaction_10"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "……ちょっと……包帯を直してきますね",
+      "id": "214",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "008_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "surp2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "あっ……\nほ、包帯……ほどけてましたか？",
+      "id": "218",
+      "lip": "lip_surp",
+      "tension": -5,
+      "voice": "008_reaction_15"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "な、何か……\nご用でしょうか……？",
+      "id": "219",
+      "lip": "lip_shy",
+      "tension": -5,
+      "voice": "008_reaction_16"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_cry",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ふぁっ……！\n……お、脅かさないでください……",
+      "id": "220",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "008_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "surp1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "わ、わわ……！",
+      "id": "224",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "008_reaction_21"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "ど、どうされましたか……",
+      "id": "225",
+      "lip": "lip_surp",
+      "tension": -10,
+      "voice": "008_reaction_22"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "こ、これは……\n何かの……罰……なんでしょうか……",
+      "id": "226",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "008_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "何かが……生まれそうなんです……！",
+      "id": "230",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_27"
+    }
+  ]
+}

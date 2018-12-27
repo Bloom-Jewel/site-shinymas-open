@@ -1,0 +1,156 @@
+{
+  "isTouched": false,
+  "moveReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "実はアイドルというのはドッ\nキリでした！　とか言うなら\n今のうちだけど……平気？",
+      "id": "175",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "007_reaction_1"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "お、プロデューサーだ\n三峰は今日も元気に\n頑張りますよー",
+      "id": "176",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "007_reaction_2"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "move",
+      "comment": "さってとー？\n三峰のPはどんなお仕事を\n魅せてくれるのかなー？",
+      "id": "177",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "007_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "wait",
+      "comment": "どしたのプロデューサー\nぼーっとしちゃって",
+      "id": "183",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "007_reaction_9"
+    },
+    {
+      "animation1": "wait1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサー？\n無視はよくないと思いまーす",
+      "id": "184",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "007_reaction_10"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "wait",
+      "comment": "うーん……今日はやること\nないのかねぇ……",
+      "id": "185",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "007_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "sad1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ちょっとプロデューサー……\n女の子に気安く触るのは\nどうかと思う……",
+      "id": "189",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "007_reaction_15"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "理想と現実の区別は\nきちんとつけといたほうが\nいいと思うよ？",
+      "id": "190",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "007_reaction_16"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "うひゃ！？　タンマタンマ！\nお触りは禁止でしょ！\n常識的に考えて！",
+      "id": "191",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "007_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "出るとこ出る？　謝っとく？\n好きなほうでいいよ？",
+      "id": "195",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "007_reaction_21"
+    },
+    {
+      "animation1": "wait2",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "や、さすがにないわー……",
+      "id": "196",
+      "lip": "lip_shy",
+      "tension": -10,
+      "voice": "007_reaction_22"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……それで？\nほんの出来心で、とか\n言っちゃう感じです？",
+      "id": "197",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "007_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "surp1",
+      "animation2": "",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "三峰、新発見の予感……！",
+      "id": "201",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "007_reaction_27"
+    }
+  ]
+}

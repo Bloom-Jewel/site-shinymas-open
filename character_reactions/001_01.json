@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "move",
+      "comment": "むんっ、\n今日も頑張りましょうっ",
+      "id": "1",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "001_reaction_1"
+    },
+    {
+      "animation1": "hello",
+      "animation2": "blank",
+      "animation3": "",
+      "category": "move",
+      "comment": "こんにちは、プロデューサーさんっ",
+      "id": "2",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "001_reaction_2"
+    },
+    {
+      "animation1": "think",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "move",
+      "comment": "ほわぁ、\n今日はどんなことするんでしょうか？",
+      "id": "3",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "001_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさん、\nどうしたんですか……？",
+      "id": "9",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "001_reaction_9"
+    },
+    {
+      "animation1": "wait4",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "wait",
+      "comment": "ほわぁ、何をすれば\nいいんですか……？",
+      "id": "10",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "001_reaction_10"
+    },
+    {
+      "animation1": "smile3",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "wait",
+      "comment": "……ぽかぽかお天気で\n眠くなってきました",
+      "id": "11",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "001_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch",
+      "comment": "急にこんなこと……\nどうしてですか……？",
+      "id": "15",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "001_reaction_15"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ひゃっ！\n……うう、困ります",
+      "id": "16",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "001_reaction_16"
+    },
+    {
+      "animation1": "think",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch",
+      "comment": "え……？\nプロデューサーさんが\nこんなことするなんて……",
+      "id": "17",
+      "lip": "lip_sad",
+      "tension": -5,
+      "voice": "001_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "えっと……ダメです\nプロデューサーさん",
+      "id": "21",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "001_reaction_21"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_cry",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "プロデューサーさんて、\nそういうことする人\nだったんですか……？",
+      "id": "22",
+      "lip": "lip_trouble",
+      "tension": -10,
+      "voice": "001_reaction_22"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_cry",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "こんなの…………\n……ショックです",
+      "id": "23",
+      "lip": "lip_trouble",
+      "tension": -10,
+      "voice": "001_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "anger2",
+      "animation2": "face_anger2",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "何かが掴めそうな\n気がしますっ",
+      "id": "27",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "001_reaction_27"
+    }
+  ]
+}

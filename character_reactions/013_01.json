@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日のお仕事は何かしら",
+      "id": "349",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_1"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日も鍛錬あるのみよ\nさあ、レッスンしましょう！",
+      "id": "350",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_2"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "やる気はいつも充分よ！\n今日も頑張るわ！",
+      "id": "351",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "think",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "いつでも動けるように\nウォーミングアップをしておかなきゃいけないわね",
+      "id": "357",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_9"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "wait",
+      "comment": "もっともっと努力しないと\nトップアイドルにはなれないわ！",
+      "id": "358",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "013_reaction_10"
+    },
+    {
+      "animation1": "wait2",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "トレーニングはいつでも、どんなところでもできるのよ！",
+      "id": "359",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_anger2",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ちょっと！　何するのよ！",
+      "id": "363",
+      "lip": "lip_surp",
+      "tension": -5,
+      "voice": "013_reaction_15"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "face_anger2",
+      "animation3": "",
+      "category": "touch",
+      "comment": "……アナタ、どういうつもり？",
+      "id": "364",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "013_reaction_16"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "こういうことはやめて頂戴",
+      "id": "365",
+      "lip": "lip_anger",
+      "tension": -5,
+      "voice": "013_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "shy2",
+      "animation2": "face_anger2",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "信じられないわ……",
+      "id": "369",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "013_reaction_21"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "face_anger1",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……失望したわね",
+      "id": "370",
+      "lip": "lip_sad",
+      "tension": -10,
+      "voice": "013_reaction_22"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_anger2",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……何を考えているのか、説明してもらえる？",
+      "id": "371",
+      "lip": "lip_sad",
+      "tension": -10,
+      "voice": "013_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "wait2",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日は何か掴めそうな気がするわ……",
+      "id": "375",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "013_reaction_27"
+    }
+  ]
+}

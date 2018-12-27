@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "wait1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサーさま、\n凛世を、お導きください……",
+      "id": "320",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "012_reaction_1"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "本日は、何を、いたしましょう……",
+      "id": "321",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_2"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサーさま……\n本日も、お傍で、勉強いたします……",
+      "id": "322",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "012_reaction_3"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "anger2",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさま……\nどちらに、いらっしゃいますか……",
+      "id": "328",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "012_reaction_9"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "凛世は、プロデューサーさまを、\nお待ちしております……",
+      "id": "329",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "012_reaction_10"
+    },
+    {
+      "animation1": "sad2",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさま……\nお疲れで、いらっしゃいますか……",
+      "id": "330",
+      "lip": "lip_sad",
+      "tension": 0,
+      "voice": "012_reaction_11"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "sad2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさま\n少し、困ります……",
+      "id": "334",
+      "lip": "lip_surp",
+      "tension": -5,
+      "voice": "012_reaction_15"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさま\n驚きますゆえ……\nどうか、ご容赦を……",
+      "id": "335",
+      "lip": "lip_sad",
+      "tension": -5,
+      "voice": "012_reaction_16"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさま……\n身体ではなく、手を……温めていただけますか",
+      "id": "336",
+      "lip": "lip_wait",
+      "tension": -5,
+      "voice": "012_reaction_17"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "face_anger",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "いくら、貴方さまでも……\nそれは、なりません……\nご自制なさってください",
+      "id": "340",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "012_reaction_21"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……凛世は、悲しいです……",
+      "id": "341",
+      "lip": "lip_sad",
+      "tension": -10,
+      "voice": "012_reaction_22"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "……そのようなことをなさる、御方だったのですか？",
+      "id": "342",
+      "lip": "lip_anger",
+      "tension": -10,
+      "voice": "012_reaction_23"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "sad1",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "何かが、掴めそうな……気がいたします",
+      "id": "346",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "012_reaction_27"
+    }
+  ]
+}

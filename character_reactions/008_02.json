@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "surp2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "プ、プロデューサーさん\nご用は……ありませんか……？",
+      "id": "207",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_4"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "ふふ……絆創膏、うまく貼れました",
+      "id": "208",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "008_reaction_5"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "プロデューサーさん\n今日も、見ていてくださるんですね",
+      "id": "209",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "008_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "……プロデューサーさん\n末梢性疲労ですか？",
+      "id": "215",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "008_reaction_12"
+    },
+    {
+      "animation1": "shy1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プ、プロデューサーさん\nずっと、見ていてください……",
+      "id": "216",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_13"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさん\nリンゴを……剥きましょうか？",
+      "id": "217",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "008_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "face_surp",
+      "animation3": "",
+      "category": "touch",
+      "comment": "絆創膏が……\nは……はがれてましたか？",
+      "id": "221",
+      "lip": "lip_surp",
+      "tension": 5,
+      "voice": "008_reaction_18"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_sad",
+      "animation3": "",
+      "category": "touch",
+      "comment": "て、手が冷たくなってます……！\n暖めなきゃ……です",
+      "id": "222",
+      "lip": "lip_shy",
+      "tension": 5,
+      "voice": "008_reaction_19"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ふふ……くすぐったいです",
+      "id": "223",
+      "lip": "lip_wait",
+      "tension": 5,
+      "voice": "008_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "しょ、触診ですか？\nまだ心の準備が……",
+      "id": "227",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "008_reaction_24"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "い、嫌っていうわけではなくて……\nうぅ……",
+      "id": "228",
+      "lip": "lip_anger",
+      "tension": 0,
+      "voice": "008_reaction_25"
+    },
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "わ……\nみ、脈拍があがっちゃいます……",
+      "id": "229",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "008_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "shy1",
+      "animation2": "",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "何かが……生まれそうなんです……！",
+      "id": "230",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "008_reaction_27"
+    }
+  ]
+}

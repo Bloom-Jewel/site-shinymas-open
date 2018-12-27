@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "move",
+      "comment": "貴方さまと、ご一緒ならば、\nどのような課題も、こなしてみせます……",
+      "id": "323",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_4"
+    },
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "本日も、お顔を見ることができ……\n凛世は、幸せでございます",
+      "id": "324",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_5"
+    },
+    {
+      "animation1": "surp2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "お疲れさまでございます……\nプロデューサーさま？　少し後ろ髪が……乱れております",
+      "id": "325",
+      "lip": "lip_surp",
+      "tension": 0,
+      "voice": "012_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "smile1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "ふふ……\n本日は、お傍で……見ていてくださるのですか……？",
+      "id": "331",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_12"
+    },
+    {
+      "animation1": "smile3",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "wait",
+      "comment": "凛世は、プロデューサーさまのお帰りを、\n心待ちにしております……",
+      "id": "332",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_13"
+    },
+    {
+      "animation1": "sad1",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "wait",
+      "comment": "プロデューサーさま……\nプロデューサーさま……",
+      "id": "333",
+      "lip": "lip_wait",
+      "tension": 0,
+      "voice": "012_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "shy2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "なぜか、気持ちが……\n落ち着くようで、ございます",
+      "id": "337",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "012_reaction_18"
+    },
+    {
+      "animation1": "shy3",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch",
+      "comment": "ふふ……\nプロデューサーさまの手……\nあたたかい……",
+      "id": "338",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "012_reaction_19"
+    },
+    {
+      "animation1": "surp1",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさま……どうかなさいましたか……？\n 凛世は、ずっとお傍におります……",
+      "id": "339",
+      "lip": "lip_shy",
+      "tension": 5,
+      "voice": "012_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "凛世の、心の音が……\n聞こえてしまいそうで、ございます……",
+      "id": "343",
+      "lip": "",
+      "tension": 0,
+      "voice": "012_reaction_24"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_shy",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "漫画の中では……このようなことは記述がなく……",
+      "id": "344",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "012_reaction_25"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_cry",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "凛世の、心は……決まっております",
+      "id": "345",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "012_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "sad1",
+      "animation2": "face_close",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "何かが、掴めそうな……気がいたします",
+      "id": "346",
+      "lip": "lip_shy",
+      "tension": 0,
+      "voice": "012_reaction_27"
+    }
+  ]
+}

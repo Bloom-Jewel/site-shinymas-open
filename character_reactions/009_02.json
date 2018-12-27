@@ -1,0 +1,155 @@
+{
+  "moveReactions": [
+    {
+      "animation1": "anger1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "move",
+      "comment": "どんな厳しい特訓が来ても\n耐え抜いてみせますっ！",
+      "id": "236",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_4"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "",
+      "animation3": "",
+      "category": "move",
+      "comment": "えへへっ！\n早くお仕事に行きましょう\nプロデューサーさん！",
+      "id": "237",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_5"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "move",
+      "comment": "今日のあたしは\n必殺技だって\n出せちゃいます！",
+      "id": "238",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_6"
+    }
+  ],
+  "waitReactions": [
+    {
+      "animation1": "smile1",
+      "animation2": "face_serious",
+      "animation3": "",
+      "category": "wait",
+      "comment": "これが時間のかつようじゅつなんですね！",
+      "id": "244",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_12"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "",
+      "animation3": "",
+      "category": "wait",
+      "comment": "えいっ！　やあっ！\nあ、変身シーンの練習中です\n一緒にやりましょう！",
+      "id": "245",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_13"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "wait",
+      "comment": "気合十分です！\nプロデューサーさん\n次は何をすれば良いですか？",
+      "id": "246",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_14"
+    }
+  ],
+  "touchReactions": [
+    {
+      "animation1": "smile2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "えへへっ！\nプロデューサーさん\nくすぐったいです！",
+      "id": "250",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "009_reaction_18"
+    },
+    {
+      "animation1": "shy2",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "touch",
+      "comment": "プロデューサーさんの手って\n大きいですね！",
+      "id": "251",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "009_reaction_19"
+    },
+    {
+      "animation1": "anger2",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch",
+      "comment": "くすぐりあいなら\n負けませんよっ",
+      "id": "252",
+      "lip": "lip_smile",
+      "tension": 5,
+      "voice": "009_reaction_20"
+    }
+  ],
+  "touchExReactions": [
+    {
+      "animation1": "touch",
+      "animation2": "",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "あたしの心臓の音\n聞こえますか？\nなんか、ドキドキしてます",
+      "id": "256",
+      "lip": "",
+      "tension": 0,
+      "voice": "009_reaction_24"
+    },
+    {
+      "animation1": "anger1",
+      "animation2": "face_smile2",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "胸のトレードマークは\nヒーローの証！　です！",
+      "id": "257",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_25"
+    },
+    {
+      "animation1": "smile1",
+      "animation2": "face_wait",
+      "animation3": "",
+      "category": "touch_ex",
+      "comment": "頭もなでてください\nプロデューサーさんっ！",
+      "id": "258",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_26"
+    }
+  ],
+  "skillReleasedReactions": [
+    {
+      "animation1": "think",
+      "animation2": "face_smile",
+      "animation3": "",
+      "category": "skill_released",
+      "comment": "今日はなんだかいいことが\n思いつきそうです！",
+      "id": "259",
+      "lip": "lip_smile",
+      "tension": 0,
+      "voice": "009_reaction_27"
+    }
+  ]
+}
